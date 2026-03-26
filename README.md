@@ -76,4 +76,4 @@ This project is submitted for a **100-mark internal assessment**.
 This portfolio was built entirely in the browser using free, accessible tools as part of the VITyarthi E-Learning initiative. All work, screenshots, and reflections are original and individual.
 
 ---
-*Created with ❤️ by Devansh Choudhary for Advitya '26 and academic excellence.*
+
